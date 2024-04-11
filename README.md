@@ -1,6 +1,7 @@
 # Color Palette Explorer
 
-![Color Palette Explorer](https://pay4ok-exe.github.io/ColorPaletteExplorer/assets/images/color-palette-explorer-screenshot.png)
+![Color Palette Explorer - Google Chrome 2024-04-12 00-35-44](https://github.com/pay4ok-exe/ColorPaletteExplorer/assets/132847873/9f3398ab-cbe0-4beb-90d7-b954300d99cd)
+
 
 ## Introduction
 Color Palette Explorer is a web-based tool designed for creating color palettes from a color code, name, or directly from an image. It is the perfect aid for designers, developers, and color enthusiasts.
