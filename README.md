@@ -1,6 +1,6 @@
 # Color Palette Explorer
 
-![Color Palette Explorer - Google Chrome 2024-04-12 00-35-44](https://github.com/pay4ok-exe/ColorPaletteExplorer/assets/132847873/9f3398ab-cbe0-4beb-90d7-b954300d99cd)
+![Color Palette Explorer - Google Chrome 2024-04-12 00-35-44]([https://github.com/pay4ok-exe/ColorPaletteExplorer/assets/132847873/9f3398ab-cbe0-4beb-90d7-b954300d99cd](https://www.veed.io/view/4ea151ab-5677-470f-bbb6-47708182afe7))
 
 
 ## Introduction
