@@ -1,7 +1,6 @@
 # Color Palette Explorer
 
-![Screen Recording - Apr 11, 2024](https://github.com/pay4ok-exe/ColorPaletteExplorer/assets/132847873/495b7639-3ec9-42ac-9db9-39b1fc618dc5)
-
+![gif](https://github.com/pay4ok-exe/ColorPaletteExplorer/assets/132847873/b7376d14-001c-4c6c-8cfa-50a4be126bc4)
 
 
 ## Introduction
