@@ -34,3 +34,21 @@ Clone the repository and run it locally using the steps below:
 
 ```shell
 git clone https://github.com/AkimOspan/ColorPaletteExplorer.git
+
+## Acknowledgements
+Thanks to all the open-source libraries and contributors for supporting this project.
+
+## Author
+**Akim Ospan**
+
+## License
+This project is open-sourced under the MIT License.
+
+---
+
+**Note on Images in Markdown:**
+Markdown doesn't directly support embedding images from local paths due to security reasons. To include images in your README, you should host your images on a server or use a service like GitHub for image hosting. Once hosted, replace the image link in the markdown syntax as follows:
+
+```markdown
+![Alt text for the image](URL-to-the-image)
+
