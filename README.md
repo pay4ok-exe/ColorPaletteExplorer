@@ -34,7 +34,7 @@ Visit [Color Palette Explorer](https://pay4ok-exe.github.io/ColorPaletteExplorer
 Clone the repository and run it locally using the steps below:
 
 ```shell
-git clone https://github.com/AkimOspan/ColorPaletteExplorer.git
+git clone https://github.com/pay4ok-exe/ColorPaletteExplorer.git
 ```
 
 
